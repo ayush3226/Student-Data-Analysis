@@ -1,0 +1,1 @@
+I want to create an app for me using python and streamlit which i can run through vs code - the app will analysis the uploaded csv containing the data and will provide the eda for that data in visualisation form of graphs and charts in most modern way
